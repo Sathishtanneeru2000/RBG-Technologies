@@ -4,6 +4,7 @@ publicv class Batch2
     {
       system.out println("done")
         int a=16;
+      boolean = true;
     }
   }
     
